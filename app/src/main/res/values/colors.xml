@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Paleta da Interface Netflix -->
+    <color name="primaria">#E70001</color>
+    <color name="primariaVariacao">#AA0407</color>
+
+    <color name="secundaria">#F70000</color>
+    <color name="menu">@color/white</color>
+    <color name="fundo">#171417</color>
+
 </resources>
